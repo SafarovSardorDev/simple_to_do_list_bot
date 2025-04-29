@@ -28,7 +28,7 @@
 - ✏️ Tahrirlash: Vazifa sarlavhasini o‘zgartirish.
 - 📍 Paginatsiya: Ko‘p vazifalar uchun “Oldingi/Keyingi” tugmalari.
 
-## 📷 Ekranlar
+## 📷 Bot ishlash strukturasidan lavhalar:
 
 <div style="display: flex; gap: 20px;">
   <img src="images/screenshot1.jpg" alt="Vazifa qo‘shish" width="160"/>

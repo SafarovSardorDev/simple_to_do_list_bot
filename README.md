@@ -72,7 +72,7 @@ Telegram: [@imsafarov](https://t.me/imsafarov)
 
 🌟 Qiziqarli loyihalar! [Python Core OOP](https://t.me/python_core_oop) kanalimizda bundanda qiziq va ajoyib open-source kodlar va projectlar mavjud. Jamoamizga qo‘shiling! Yulduzcha bosib ketish esdan chiqmasina 😁
 
-###📜 Litsenziya
+📜 Litsenziya
 This project is licensed under the MIT License - see the LICENSE file for details. 📝
 
 Copyright (c) 2025 Sardor
